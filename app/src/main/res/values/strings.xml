@@ -3,4 +3,7 @@
     <string name="titulo">CALCULADORA</string>
     <string name="valnumero">Ingrese un número</string>
     <string name="valcalcular">CALCULAR</string>
+    <string name="tituloimc">CALCULADORA IMC</string>
+    <string name="valtalla">Ingrese su talla (cm)</string>
+    <string name="valpeso">Ingrese su peso (kg)</string>
 </resources>
