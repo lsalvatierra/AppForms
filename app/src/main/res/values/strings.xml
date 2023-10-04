@@ -6,4 +6,6 @@
     <string name="tituloimc">CALCULADORA IMC</string>
     <string name="valtalla">Ingrese su talla (cm)</string>
     <string name="valpeso">Ingrese su peso (kg)</string>
+    <string name="valtituloprimo">VALIDAR NÚMERO PRIMO</string>
+    <string name="valnumeroprimo">Ingrese un número</string>
 </resources>

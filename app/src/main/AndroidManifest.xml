@@ -13,7 +13,7 @@
         android:theme="@style/Theme.AppForms"
         tools:targetApi="31">
         <activity
-            android:name=".ImcActivity"
+            android:name=".PrimosActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,10 +22,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".ImcActivity"
             android:exported="false">
 
         </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"></activity>
     </application>
 
 </manifest>
